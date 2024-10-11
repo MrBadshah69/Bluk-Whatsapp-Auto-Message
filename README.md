@@ -72,8 +72,8 @@ An example CSV file (`contacts.csv`):
 
 ```csv
 Company Name,WhatsApp Number
-Brand's Mart (Pvt) Ltd,+1234567890
-ABC Marketing Agency,+1987654321
+Brand's M*** (P++) L**,+1234****
+ABC Marketing Ag**,+1987*****
 XYZ Solutions,+1122334455
 ```
 
